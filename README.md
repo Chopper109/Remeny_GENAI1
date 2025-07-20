@@ -45,8 +45,8 @@ pip (Python package installer)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/Remeny_GENAI1.git
-cd Remeny_GENAI1
+[git clone https://github.com/your-username/Remeny_GENAI1.git
+](https://github.com/Chopper109/Remeny_GENAI1/blob/main/README.md)cd Remeny_GENAI1
 
 
 (Replace your-username and your-repo-name with your actual GitHub details.)
